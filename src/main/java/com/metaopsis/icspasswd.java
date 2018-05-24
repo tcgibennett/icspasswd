@@ -9,7 +9,7 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
-import com.metaopsis.crypto.Encryptor;
+import security.cryptor.Encryptor;
 
 /**
  * Created by tbennett on 11/14/16.
